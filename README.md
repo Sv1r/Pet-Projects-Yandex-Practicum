@@ -1,4 +1,4 @@
-# Pet-Projects---Yandex-Practicum
+# Pet-Projects-Yandex-Practicum
 ## Краткое описание проектов
 
 | **Название проекта** | **Описание** | **Используемые библиотеки** |
